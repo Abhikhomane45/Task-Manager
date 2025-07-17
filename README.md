@@ -1,0 +1,3 @@
+## TaskIt – Flask To-Do App
+
+This Flask-based Task Manager is a responsive web application that allows users to add and view daily tasks with ease. Built using Flask for the backend and Bootstrap for the frontend, it demonstrates key web development concepts such as form handling, routing, and dynamic HTML rendering through Jinja2 templates. The project features a clean, user-friendly interface and is structured to support future enhancements like CRUD functionality and database integration (e.g., SQLite). It's ideal for beginners looking to learn the Flask framework in a practical, hands-on way.
