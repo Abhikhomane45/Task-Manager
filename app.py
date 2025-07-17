@@ -28,5 +28,5 @@ def submit():
 
 if __name__ == "__main__":
     with app.app_context():
-        db.create_all()  # ✅ This line fixes the issue
-    app.run(debug=True, port=8000)
+        db.create_all()  # created the database 
+        app.run(debug=True, port=8000)
